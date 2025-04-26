@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853285394238",
+    "project_id": "chat-c2c47",
+    "storage_bucket": "chat-c2c47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853285394238:android:7451f3a1c118e024b27e6f",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA764OB5_ep92b4yFnV_SFVOCVwe-yu-Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
