@@ -12,7 +12,7 @@ A Flutter application that provides weather information using Riverpod for state
 
 ## App Screenshots
 
-<div style="display: flex; justify-content: space-evenly; margin-bottom: 20px;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   <img src="images/weather1.png" alt="App Screenshot 1" width="300" />
   <img src="images/weather2.png" alt="App Screenshot 2" width="300" />
   <img src="images/weather3.png" alt="App Screenshot 3" width="300" />
